@@ -46,6 +46,34 @@
         "episodeCount":16
         "seasons":1
         "releaseDate":"13 July 2019"
+    },
+{
+    "id": 3,
+        "name":"It's Okay, That's Love"
+        "imdbRating": 8.3,
+        "description":"a love story between a psychiatrist named ji hae soo and an author who had schizophrenia named jang jae yeol"
+        "genre":["Medical","Melodrama","Romance"],
+        "platform":["Amazon Prime Video"],
+        "trailer":"https://in.video.search.yahoo.com/search/video?fr=mcafee&ei=UTF-8&p=it%27s+okay+that%27s+love+trailer+youtube&vm=r&type=E211IN885G91714#id=1&vid=b5ad0446deddc41514a9b3e46ba6c27c&action=click",
+        "casting": {
+            "actors": [
+              "Dong-il Sung",
+              "Kwang-soo Lee",
+              "Jin Kyung",
+              "Zo In-sung",
+              "Kong Hyo-jin",
+              "Kyung-soo Do",
+              "Yang Ik-joon",
+              "Hwa-yeon Cha",
+              "Lee Song-Kyoung",
+              "Ha-Ra goo"
+            ],
+            "director": ["Kyoo-tae Kim"]
+        },
+        "poster":"https://i.pinimg.com/originals/ce/f6/3d/cef63def09cd37fbedc8600c4955b455.jpg",
+        "episodeCount":16
+        "seasons":1
+        "releaseDate":"23 july 2014"
     }
 ]
  
